@@ -34,8 +34,6 @@ The feature names above may not match with the exact tags returned by the respon
  You are required to collect 3000 reviews only. 
  You are free to collect any other attributes/features that you think helpful. 
 
-“Participants are NOT advised to visit INSOFE office to perform the data collection”
-(as the server may block the IP due to many requests from same IP within short interval of time.)
 
 2. Label the Review Sentiment:
 
